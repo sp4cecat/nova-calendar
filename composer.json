@@ -19,12 +19,6 @@
         "laravel/nova": "^5.0",
         "wdelfuego/nova-datetime": "dev-main"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:sp4cecat/nova-datetime.git"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Wdelfuego\\NovaCalendar\\": "src/"
